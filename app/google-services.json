@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52331122952",
+    "project_id": "image-sharing-6edea",
+    "storage_bucket": "image-sharing-6edea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52331122952:android:99f39e594387961eeddcbd",
+        "android_client_info": {
+          "package_name": "firebase.kunasainath.imagesharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52331122952-vc5u9nr7acbkn1926o9g1i3bvv5r47iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IUvCAGNFUE6XdKHiey7sq9kX6SvtpWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52331122952-vc5u9nr7acbkn1926o9g1i3bvv5r47iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
